@@ -6,6 +6,10 @@ __pycache__/
 # Credentials
 credentials.txt
 
+# models
+*.cfg
+*.weights
+
 # C extensions
 *.so
 
